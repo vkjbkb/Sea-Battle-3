@@ -1,0 +1,184 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: UIText Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: UIText
+  m_TableCollectionNameGuidString: 62d608e8caff49542a0132c134e6847c
+  m_Entries:
+  - m_Id: 90760286208
+    m_Key: GameTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8668123054080
+    m_Key: Fullscreen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8767486115840
+    m_Key: Sound
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8829381459968
+    m_Key: Language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8891591376896
+    m_Key: Back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9948497264640
+    m_Key: Start
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10040314773504
+    m_Key: Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10087530053632
+    m_Key: Exit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11908373889024
+    m_Key: CreateRoom
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12144450289664
+    m_Key: Search
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74498722578432
+    m_Key: RoomName
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74752738017280
+    m_Key: Create
+    m_Metadata:
+      m_Items: []
+  - m_Id: 89222180847616
+    m_Key: Connect
+    m_Metadata:
+      m_Items: []
+  - m_Id: 529799077171200
+    m_Key: No
+    m_Metadata:
+      m_Items: []
+  - m_Id: 529845692665856
+    m_Key: Yes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 529884280262656
+    m_Key: WaitOpponent
+    m_Metadata:
+      m_Items: []
+  - m_Id: 530280654573568
+    m_Key: SureQuit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 804235034722304
+    m_Key: Update
+    m_Metadata:
+      m_Items: []
+  - m_Id: 863256131371008
+    m_Key: ShipL4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 863332367040512
+    m_Key: ShipL3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 863333990236160
+    m_Key: ShipL2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 863335701512192
+    m_Key: ShipL1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1942405529903104
+    m_Key: Confirm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1942587088740352
+    m_Key: MakeTurn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2301683984556032
+    m_Key: Score
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2301782915604480
+    m_Key: Time
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2312938464010240
+    m_Key: BackToLobby
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2313288654839808
+    m_Key: Win
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2313698765496320
+    m_Key: Lose
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2313837722787840
+    m_Key: YourScore
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2563175482736640
+    m_Key: History
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2591196944089088
+    m_Key: Victory
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2591260148056064
+    m_Key: Defeat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2662988769476608
+    m_Key: PlaceShips
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2662992225583104
+    m_Key: ConfirmPlacement
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2662993504845824
+    m_Key: WatingOpponent
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2662994897354752
+    m_Key: YourTurn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2662996990312448
+    m_Key: OpponentTurn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3373997086642176
+    m_Key: Connection
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 2717466271482904600
+  references:
+    version: 2
+    RefIds:
+    - rid: 2717466271482904600
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1733664127630
